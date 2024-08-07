@@ -1,5 +1,5 @@
 - 👋 Assalomu aleykum, I’m Sharifjon Muminov
-- 👀 I’m interested in money and the world :)
+- 👀 I’m interested in to piloting 🛸  :)
 
 
 <!---
