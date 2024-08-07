@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sharifjon Muminov
+- 👋 Assalomu aleykum, I’m Sharifjon Muminov
 - 👀 I’m interested in money and the world :)
 
 
