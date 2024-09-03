@@ -3,5 +3,4 @@
 </div>
 
 
-
- <h2>Assalomu aleykum 👋, I'm Sharifjon</h2>
+<h4>Assalomu aleykum 👋, I'm Sharifjon</h4>
