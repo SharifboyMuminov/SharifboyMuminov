@@ -3,4 +3,4 @@
 </div>
 
 
-Hi 👋, I'm Abdurauf
+Assalomu aleykum 👋, I'm Sharifjon
