@@ -7,6 +7,7 @@
 
 ## Connect with me:
 <p align="left">
+  <div style="display: flex; align-items: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/sharifjon-muminov-8772b12b4/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
   
   <a href="https://www.instagram.com/sharifboy_muminov/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram" /></a>
@@ -15,7 +16,7 @@
 
 
   <a href="https://t.me/sharifjon_muminov" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="40" height="40"/></a>  
-  
+  </div>
 </p>
 
 ## Languages and Tools:
