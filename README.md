@@ -7,8 +7,8 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
-  <a href="https://instagram.com/your-profile" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram" /></a>
+  <a href="https://www.linkedin.com/in/sharifjon-muminov-8772b12b4/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
+  <a href="https://www.instagram.com/sharifboy_muminov/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram" /></a>
   
 </p>
 
