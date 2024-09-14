@@ -16,6 +16,7 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" alt="Dart" width="40" />
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" alt="Dart" width="40" />
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-swift-3d-icon-download-in-png-blend-fbx-gltf-file-formats--apple-logo-programming-language-ios-macos-coding-lang-pack-logos-icons-7578009.png" alt="Dart" width="40" />
 
 </p>
