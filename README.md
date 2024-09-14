@@ -8,7 +8,7 @@
 ## Connect with me:
 <p style="display: flex; align-items: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/sharifjon-muminov-8772b12b4/" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" />
+    <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" width="40" height="40" />
   </a>
   
   <a href="https://www.instagram.com/sharifboy_muminov/" target="blank">
