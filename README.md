@@ -13,7 +13,7 @@
 
 ## Languages and Tools:
 <p align="left">
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50" />
   </a>
@@ -30,6 +30,7 @@
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-swift-3d-icon-download-in-png-blend-fbx-gltf-file-formats--apple-logo-programming-language-ios-macos-coding-lang-pack-logos-icons-7578009.png" alt="Swift" width="50" height="50" />
   </a>    
 </div>
+
  
 
 </p>
