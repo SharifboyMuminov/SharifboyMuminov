@@ -10,7 +10,6 @@
   <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
   <a href="https://instagram.com/your-profile" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram" /></a>
   
-  <a href="https://discord.com/invite/your-invite" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord.png" alt="discord" /></a>
 </p>
 
 ## Languages and Tools:
