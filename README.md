@@ -6,7 +6,7 @@
 
 
 ## Connect with me:
-<p style="display: flex; align-items: center; gap: 20px;">
+<p style="display: flex; align-items: center; gap: 50px;">
   <a href="https://www.linkedin.com/in/sharifjon-muminov-8772b12b4/" target="blank">
     <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" width="40" height="40" />
   </a>
@@ -27,7 +27,7 @@
 
 ## Languages and Tools:
 <p align="left">
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 50px;">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50" />
   </a>
