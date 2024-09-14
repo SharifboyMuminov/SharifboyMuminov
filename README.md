@@ -14,7 +14,7 @@
   <a href="https://www.facebook.com/profile.php?id=100047941307329" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="facebook" width="40" height="40"/></a>  
 
 
-  <a href="https://t.me/sharifjon_muminov" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png" alt="Telegram" width="40" height="40"/></a>  
+  <a href="https://t.me/sharifjon_muminov" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="40" height="40"/></a>  
   
 </p>
 
