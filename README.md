@@ -12,7 +12,7 @@
   </a>
   
   <a href="https://www.instagram.com/sharifboy_muminov/" target="blank">
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/045/934/210/small/instagram-logo-icon-transparent-background-free-png.png" alt="instagram" width="40" height="40 />
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/045/934/210/small/instagram-logo-icon-transparent-background-free-png.png" alt="instagram" width="80" height="80 />
   </a>
   
   <a href="https://www.facebook.com/profile.php?id=100047941307329" target="blank">
