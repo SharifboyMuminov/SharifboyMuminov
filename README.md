@@ -13,17 +13,24 @@
 
 ## Languages and Tools:
 <p align="left">
-  <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" 
-    height="50" /></a>
+<div style="display: flex; align-items: center;">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50" />
+  </a>
   
-  <a href="https://dart.dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" alt="Dart" width="50" 
-    height="50"  /></a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" alt="Dart" width="50" height="50" />
+  </a>
   
-  <a href="https://itproger.com/course/c-programming" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" alt="C" width="50" 
-    height="50" /></a>
+  <a href="https://itproger.com/course/c-programming" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" alt="C" width="50" height="50" />
+  </a>
   
-  <a href="https://developer.apple.com/swift/" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-swift-3d-icon-download-in-png-blend-fbx-gltf-file-formats--apple-logo-programming-language-ios-macos-coding-lang-pack-logos-icons-7578009.png" alt="Swift" width="50" 
-    height="50" /></a>  
+  <a href="https://developer.apple.com/swift/" target="_blank">
+    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-swift-3d-icon-download-in-png-blend-fbx-gltf-file-formats--apple-logo-programming-language-ios-macos-coding-lang-pack-logos-icons-7578009.png" alt="Swift" width="50" height="50" />
+  </a>    
+</div>
+ 
 
 </p>
 
