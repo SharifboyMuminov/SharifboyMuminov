@@ -15,6 +15,6 @@
 ## Languages and Tools:
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="http://95.130.227.117:81\Pictures\\76828761-dae2-4a29-9177-4e67dd200407images-removebg-preview.png" alt="Dart" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" alt="Dart" />
 </p>
 
