@@ -8,9 +8,13 @@
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/sharifjon-muminov-8772b12b4/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
+  
   <a href="https://www.instagram.com/sharifboy_muminov/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram" /></a>
+  
   <a href="https://www.facebook.com/profile.php?id=100047941307329" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="facebook" width="40" height="40"/></a>  
 
+
+  <a href="https://t.me/sharifjon_muminov" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png" alt="Telegram" width="40" height="40"/></a>  
   
 </p>
 
