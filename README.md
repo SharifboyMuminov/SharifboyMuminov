@@ -9,6 +9,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sharifjon-muminov-8772b12b4/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
   <a href="https://www.instagram.com/sharifboy_muminov/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100047941307329" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="facebook" /></a>  
 </p>
 
 ## Languages and Tools:
