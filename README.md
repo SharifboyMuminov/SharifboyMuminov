@@ -9,11 +9,11 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sharifjon-muminov-8772b12b4/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
   <a href="https://www.instagram.com/sharifboy_muminov/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram" /></a>
-  
 </p>
 
 ## Languages and Tools:
 <p align="left">
+  <a href="https://www.linkedin.com/in/sharifjon-muminov-8772b12b4/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" alt="Dart" width="40" />
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" alt="Dart" width="40" />
