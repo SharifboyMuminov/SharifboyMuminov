@@ -6,19 +6,19 @@
 
 ## Connect with me:
 <p style="display: flex; align-items: center; gap: 50px;">
-  <a href="https://www.linkedin.com/in/sharifjon-muminov-8772b12b4/" target="blank">
+  <a href="https://www.linkedin.com/in/sharifjon-muminov-8772b12b4/" target="_blank">
     <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" width="40" height="40" />
   </a>
   
-  <a href="https://www.instagram.com/sharifboy_muminov/" target="blank">
+  <a href="https://www.instagram.com/sharifboy_muminov/" target="_blank">
     <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-1024.png" alt="instagram" width="40" height="40 />
   </a>
   
-  <a href="https://www.facebook.com/profile.php?id=100047941307329" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100047941307329" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="facebook" width="40" height="40"/>
   </a>  
 
-  <a href="https://t.me/sharifjon_muminov" target="blank">
+  <a href="https://t.me/sharifjon_muminov" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="40" height="40"/>
   </a>  
 </p>
